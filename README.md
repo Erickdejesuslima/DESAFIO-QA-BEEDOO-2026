@@ -83,3 +83,5 @@ Testar situações fora do fluxo normal, como múltiplos cliques no botão de ca
 ### Feedback e experiência do usuário
 
 Avaliar se o sistema apresenta mensagens claras de sucesso ou erro após as ações do usuário, garantindo uma boa experiência de uso.
+
+Link com os testes realizados: https://drive.google.com/drive/folders/1wdSGzAby-OYF2FayOxNiSRNiT6PBMN2P?usp=sharing
